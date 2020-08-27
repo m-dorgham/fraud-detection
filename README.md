@@ -3,4 +3,4 @@ This is a notebook for exploring and comparing different methods for anomaly det
 
 The dataset is downloaded from kaggle.com. [Here](https://www.kaggle.com/mlg-ulb/creditcardfraud) is the link to the original dataset on kaggle.
 
-Sometimes GitHub fails to load the notebooks. If this happens, you can have a look at my notebook on kaggle [here](https://www.kaggle.com/mdorgham/fraud-detection-comparing-4-methods).
+**Sometimes GitHub fails to load the notebooks. If this happens, you can have a look at my notebook on kaggle [here](https://www.kaggle.com/mdorgham/fraud-detection-comparing-4-methods).**
